@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 25,
+    "description": "Compact wireless mouse with USB receiver."
+  },
+  {
+    "id": 2,
+    "title": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 89,
+    "description": "RGB keyboard with blue switches."
+  },
+  {
+    "id": 3,
+    "title": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 199,
+    "description": "Over-ear headphones with 30 hour battery."
+  },
+  {
+    "id": 4,
+    "title": "USB-C Hub",
+    "category": "Electronics",
+    "price": 45,
+    "description": "7-in-1 hub with HDMI and card reader."
+  },
+  {
+    "id": 5,
+    "title": "Smart Watch",
+    "category": "Electronics",
+    "price": 149,
+    "description": "Tracks steps, sleep and heart rate."
+  },
+  {
+    "id": 6,
+    "title": "Running Shoes",
+    "category": "Fashion",
+    "price": 79,
+    "description": "Lightweight shoes for daily runs."
+  },
+  {
+    "id": 7,
+    "title": "Denim Jacket",
+    "category": "Fashion",
+    "price": 65,
+    "description": "Classic blue denim jacket."
+  },
+  {
+    "id": 8,
+    "title": "Leather Wallet",
+    "category": "Fashion",
+    "price": 35,
+    "description": "Slim wallet with six card slots."
+  },
+  {
+    "id": 9,
+    "title": "Sunglasses",
+    "category": "Fashion",
+    "price": 55,
+    "description": "UV protected polarized sunglasses."
+  },
+  {
+    "id": 10,
+    "title": "Wool Scarf",
+    "category": "Fashion",
+    "price": 28,
+    "description": "Warm scarf for cold days."
+  },
+  {
+    "id": 11,
+    "title": "Coffee Maker",
+    "category": "Home",
+    "price": 120,
+    "description": "Brews up to 10 cups of coffee."
+  },
+  {
+    "id": 12,
+    "title": "Desk Lamp",
+    "category": "Home",
+    "price": 30,
+    "description": "LED lamp with adjustable brightness."
+  },
+  {
+    "id": 13,
+    "title": "Cotton Bedsheet Set",
+    "category": "Home",
+    "price": 60,
+    "description": "Soft queen size bedsheet set."
+  },
+  {
+    "id": 14,
+    "title": "Air Purifier",
+    "category": "Home",
+    "price": 230,
+    "description": "HEPA filter for rooms up to 40 sqm."
+  },
+  {
+    "id": 15,
+    "title": "Ceramic Mug Set",
+    "category": "Home",
+    "price": 22,
+    "description": "Set of four 350ml mugs."
+  },
+  {
+    "id": 16,
+    "title": "Yoga Mat",
+    "category": "Sports",
+    "price": 20,
+    "description": "Non slip 6mm yoga mat."
+  },
+  {
+    "id": 17,
+    "title": "Dumbbell Set",
+    "category": "Sports",
+    "price": 95,
+    "description": "Adjustable dumbbells, 2 to 12 kg."
+  },
+  {
+    "id": 18,
+    "title": "Football",
+    "category": "Sports",
+    "price": 18,
+    "description": "Size 5 match football."
+  },
+  {
+    "id": 19,
+    "title": "Cycling Helmet",
+    "category": "Sports",
+    "price": 48,
+    "description": "Ventilated helmet with rear light."
+  },
+  {
+    "id": 20,
+    "title": "Water Bottle",
+    "category": "Sports",
+    "price": 15,
+    "description": "1 litre insulated steel bottle."
+  }
+]
